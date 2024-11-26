@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Natx
+- 👋 Hi, I’m Natx, you can call me Hybacchi too, that's my last name.
 - 👀 I’m interested in increase my programming ability
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: Discord - natxlua
+- 🌱 Currently i'm learning JavaScript, reached intermediate level.
+- 📫 How to reach me:
+- Discord - 4natx
+- Twitter - /whyNatx
 
 <div align = "center">
   <img align="center" src= "https://github-profile-trophy.vercel.app/?username=whyNatx&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10"/>
